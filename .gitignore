@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Runtime output (only at this repo's root; your project's memory-kit/ should be committed)
+/MEMORY-REPORT.md
+/memory_paths.json
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
